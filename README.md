@@ -1,6 +1,7 @@
 # Ex-2-GENERATION OF LEXICAL TOKENS LEX FLEX TOOL
 # NAME : ADITHYA V
 # REG.NO : 212223110001
+# Date:18.04.25
 # AIM
 ## To write a lex program to implement lexical analyzer to recognize a few patterns.
 # ALGORITHM
